@@ -1,0 +1,1 @@
+# BAREC_Arabic_Readability_Assessment
