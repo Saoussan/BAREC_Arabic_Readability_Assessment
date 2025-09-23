@@ -10,7 +10,7 @@ Our experiment is composed of a two-phase training schedule with distinct losses
 
 ## Steps
 1. Obtain the **[BAREC dataset for sentences](https://huggingface.co/datasets/CAMeL-Lab/BAREC-Shared-Task-2025-sent)** and run the preprocessing.py.
-2. Run phase_1.py then phase_2.py. The latest is the finetuning of the phase1
+2. Run phase1.ipynb then phase1.ipynb. The latest is the finetuning of the phase1
 
 ## Results
 Evaluation on the shared BAREC Test set
